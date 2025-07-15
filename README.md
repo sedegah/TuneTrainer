@@ -1,4 +1,4 @@
-# TuneTrainer 🎺
+# TuneTrainer 
 
 TuneTrainer is a simple Streamlit app that listens to a note played or sung through your microphone, detects its pitch, and tells you whether you are sharp, flat, or in tune.
 
