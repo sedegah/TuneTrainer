@@ -9,6 +9,7 @@ TuneTrainer is a simple Streamlit app that listens to a note played or sung thro
 - Calculates cent deviation and gives clear visual feedback
 - Adjustable recording duration and sample rate
 
+
 ## Installation
 
 ```bash
