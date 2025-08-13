@@ -2,3 +2,4 @@
 // Detect A - flat by 15 cents 1755015619
 // Add sharp/flat indicator 1755015619
 // Fix latency issues in live mode 1755094773
+// Improve microphone input handling 1755094773
