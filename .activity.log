@@ -1,3 +1,4 @@
 // Refactor note mapping logic 1755015619
 // Detect A - flat by 15 cents 1755015619
 // Add sharp/flat indicator 1755015619
+// Fix latency issues in live mode 1755094773
