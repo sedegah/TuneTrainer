@@ -4,3 +4,4 @@
 // Fix latency issues in live mode 1755094773
 // Improve microphone input handling 1755094773
 // Update nearest note algorithm 1755181142
+// Detect C# - slightly sharp 1755181142
