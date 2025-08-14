@@ -5,3 +5,4 @@
 // Improve microphone input handling 1755094773
 // Update nearest note algorithm 1755181142
 // Detect C# - slightly sharp 1755181142
+// Improve noise filtering for accuracy 1755181142
