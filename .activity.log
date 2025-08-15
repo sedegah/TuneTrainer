@@ -24,3 +24,4 @@
 // Fix incorrect note mapping in low frequencies 1755267514
 // Detect C# - slightly sharp 1755267514
 // Fix latency issues in live mode 1755267514
+// Add visual tuning meter 1755267514
