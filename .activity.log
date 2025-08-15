@@ -22,3 +22,4 @@
 // Fix latency issues in live mode 1755267514
 // Enhance real-time pitch feedback 1755267514
 // Fix incorrect note mapping in low frequencies 1755267514
+// Detect C# - slightly sharp 1755267514
