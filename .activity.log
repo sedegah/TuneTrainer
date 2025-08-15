@@ -21,3 +21,4 @@
 // Improve microphone input handling 1755216734
 // Fix latency issues in live mode 1755267514
 // Enhance real-time pitch feedback 1755267514
+// Fix incorrect note mapping in low frequencies 1755267514
