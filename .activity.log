@@ -32,3 +32,4 @@
 // Refactor note mapping logic 1755353756
 // Detect A - flat by 15 cents 1755353756
 // Add octave detection support 1755353756
+// Update nearest note algorithm 1755353756
