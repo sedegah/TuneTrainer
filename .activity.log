@@ -37,3 +37,4 @@
 // Add sharp/flat indicator 1755353756
 // Improve pitch detection accuracy 1755440185
 // Improve noise filtering for accuracy 1755440185
+// Update nearest note algorithm 1755440185
