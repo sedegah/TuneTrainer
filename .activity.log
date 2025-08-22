@@ -58,3 +58,4 @@
 // Add visual tuning meter 1755785925
 // Improve pitch detection accuracy 1755785925
 // Refactor frequency-to-note conversion 1755872284
+// Detect A - flat by 15 cents 1755872284
