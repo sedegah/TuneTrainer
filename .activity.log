@@ -80,3 +80,4 @@
 // Fix incorrect note mapping in low frequencies 1756156547
 // Enhance real-time pitch feedback 1756156547
 // Improve pitch stability detection 1756156547
+// Detect A - flat by 15 cents 1756156547
