@@ -85,3 +85,4 @@
 // Refactor note mapping logic 1756156547
 // Improve microphone input handling 1756156547
 // Refactor frequency-to-note conversion 1756217851
+// Fix latency issues in live mode 1756217851
