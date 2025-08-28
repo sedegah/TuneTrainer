@@ -103,3 +103,4 @@
 // Improve noise filtering for accuracy 1756390699
 // Enhance real-time pitch feedback 1756390699
 // Improve pitch stability detection 1756411353
+// Add octave detection support 1756411353
