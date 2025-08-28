@@ -100,3 +100,4 @@
 // Improve pitch detection accuracy 1756390698
 // Detect A - flat by 15 cents 1756390699
 // Update nearest note algorithm 1756390699
+// Improve noise filtering for accuracy 1756390699
