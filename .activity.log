@@ -106,3 +106,4 @@
 // Add octave detection support 1756411353
 // Improve pitch stability detection 1756411353
 // Fix latency issues in live mode 1756477006
+// Refactor note mapping logic 1756477006
