@@ -111,3 +111,4 @@
 // Improve pitch stability detection 1756477006
 // Fix latency issues in live mode 1756477006
 // Add sharp/flat indicator 1756477006
+// Detect C# - slightly sharp 1756477006
