@@ -109,3 +109,4 @@
 // Refactor note mapping logic 1756477006
 // Enhance real-time pitch feedback 1756477006
 // Improve pitch stability detection 1756477006
+// Fix latency issues in live mode 1756477006
