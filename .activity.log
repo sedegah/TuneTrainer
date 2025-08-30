@@ -117,3 +117,4 @@
 // Improve pitch detection accuracy 1756563250
 // Detect A - flat by 15 cents 1756563250
 // Refactor frequency-to-note conversion 1756563250
+// Refactor note mapping logic 1756563250
