@@ -119,3 +119,4 @@
 // Refactor frequency-to-note conversion 1756563250
 // Refactor note mapping logic 1756563250
 // Add octave detection support 1756563250
+// Detect C# - slightly sharp 1756649674
