@@ -130,3 +130,4 @@
 // Update nearest note algorithm 1756687347
 // Fix latency issues in live mode 1756736237
 // Add octave detection support 1756736237
+// Refactor note mapping logic 1756736237
