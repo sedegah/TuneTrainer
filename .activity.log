@@ -140,3 +140,4 @@
 // Detect C# - slightly sharp 1756822676
 // Improve pitch stability detection 1756822676
 // Enhance real-time pitch feedback 1756822676
+// Refactor frequency-to-note conversion 1756822676
