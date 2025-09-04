@@ -155,3 +155,4 @@
 // Improve noise filtering for accuracy 1756909074
 // Improve pitch detection accuracy 1756909074
 // Refactor frequency-to-note conversion 1756909074
+// Fix latency issues in live mode 1756995413
