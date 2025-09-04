@@ -162,3 +162,4 @@
 // Detect C# - slightly sharp 1756995413
 // Fix incorrect note mapping in low frequencies 1756995413
 // Add sharp/flat indicator 1756995413
+// Refactor frequency-to-note conversion 1756995413
