@@ -178,3 +178,4 @@
 // Update nearest note algorithm 1757081771
 // Add octave detection support 1757168028
 // Improve pitch stability detection 1757168028
+// Fix incorrect note mapping in low frequencies 1757168028
