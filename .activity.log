@@ -186,3 +186,4 @@
 // Fix latency issues in live mode 1757254428
 // Detect C# - slightly sharp 1757254428
 // Fix latency issues in live mode 1757254428
+// Refactor frequency-to-note conversion 1757254428
