@@ -207,3 +207,4 @@
 // Improve pitch detection accuracy 1757600264
 // Add sharp/flat indicator 1757600264
 // Detect C# - slightly sharp 1757600264
+// Fix incorrect note mapping in low frequencies 1757600264
