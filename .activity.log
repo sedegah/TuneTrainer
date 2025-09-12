@@ -216,3 +216,4 @@
 // Add visual tuning meter 1757686607
 // Refactor frequency-to-note conversion 1757686607
 // Refactor note mapping logic 1757686607
+// Fix latency issues in live mode 1757686607
