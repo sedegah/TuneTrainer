@@ -226,3 +226,4 @@
 // Fix incorrect note mapping in low frequencies 1757772787
 // Improve pitch detection accuracy 1757859236
 // Fix incorrect note mapping in low frequencies 1757859236
+// Improve microphone input handling 1757859236
