@@ -227,3 +227,4 @@
 // Improve pitch detection accuracy 1757859236
 // Fix incorrect note mapping in low frequencies 1757859236
 // Improve microphone input handling 1757859236
+// Add octave detection support 1757859236
