@@ -232,3 +232,4 @@
 // Fix latency issues in live mode 1757945897
 // Add sharp/flat indicator 1757945897
 // Detect A - flat by 15 cents 1757945897
+// Update nearest note algorithm 1757945897
