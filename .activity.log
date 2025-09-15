@@ -229,3 +229,4 @@
 // Improve microphone input handling 1757859236
 // Add octave detection support 1757859236
 // Detect A - flat by 15 cents 1757859236
+// Fix latency issues in live mode 1757945897
