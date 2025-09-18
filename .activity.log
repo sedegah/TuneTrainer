@@ -253,3 +253,4 @@
 // Improve pitch stability detection 1758205072
 // Fix incorrect note mapping in low frequencies 1758205072
 // Detect A - flat by 15 cents 1758205072
+// Fix latency issues in live mode 1758205072
