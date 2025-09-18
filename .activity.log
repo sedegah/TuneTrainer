@@ -255,3 +255,4 @@
 // Detect A - flat by 15 cents 1758205072
 // Fix latency issues in live mode 1758205072
 // Refactor note mapping logic 1758205072
+// Refactor frequency-to-note conversion 1758205072
