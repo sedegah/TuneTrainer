@@ -268,3 +268,4 @@
 // Add octave detection support 1758377669
 // Add octave detection support 1758377669
 // Fix incorrect note mapping in low frequencies 1758377669
+// Improve microphone input handling 1758377669
